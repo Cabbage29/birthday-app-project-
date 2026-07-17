@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Keeper</string>
+    <string name="title">Birthday Keeper</string>
+    <string name="subtitle">Save and manage birthdays in one place</string>
+    <string name="name_hint">Name</string>
+    <string name="birthday_hint">Birthday (DD/MM/YYYY)</string>
+    <string name="add_birthday">Add Birthday</string>
+    <string name="show_birthdays">Show All Birthdays</string>
+    <string name="delete_birthdays">Delete All</string>
+    <string name="reset_form">Reset</string>
+    <string name="empty_result">Your saved birthdays will appear here.</string>
+    <string name="count_zero">0 birthdays saved</string>
+</resources>
